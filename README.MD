@@ -33,6 +33,6 @@ Also, there are six buttons that shows the "view" windows. The view window is a 
 
 ![alt tag](https://github.com/AramisHM/CA1-Cache-Simulator/blob/master/docs/manual/imgs/view.PNG)
 
-# Algorithms Fluxograms for execution
+# Algorithms
 ## Fully Associative
 ![alt tag](https://github.com/AramisHM/CA1-Cache-Simulator/blob/master/docs/manual/imgs/FA.png)
